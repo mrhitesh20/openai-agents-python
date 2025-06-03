@@ -78,7 +78,7 @@ async def main():
     # ¡Hola! Estoy bien, gracias por preguntar. ¿Y tú, cómo estás?
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":l
     asyncio.run(main())
 ```
 
